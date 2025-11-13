@@ -1,11 +1,11 @@
-##**Movie Financial Performance Analysis**
+# **Movie Financial Performance Analysis**
 
 **Overview**
 
 This project explores key factors influencing movie performance, such as genre, release timing, runtime, and production budget.
 By analyzing multiple movie datasets, we identify what drives profitability and provide strategic recommendations for data-driven decision-making in film production.
 
-##**Business Understanding**
+# **Business Understanding**
 
 The movie industry faces high production costs and unpredictable audience preferences.
 Our goal was to determine which features contribute most to a movie’s success and how studios can optimize release strategies and budgets.
@@ -18,7 +18,7 @@ Our goal was to determine which features contribute most to a movie’s success 
 
 3. Can early popularity predict long-term success?
 
-##**Datasets Used**
+# **Datasets Used**
 |Dataset                |   Description                                              |
 | --------------------- | ---------------------------------------------------------- |
 |tmdb.movies.csv	    | Movie details (id, popularity, release_date, vote_average) |
@@ -49,7 +49,7 @@ Our goal was to determine which features contribute most to a movie’s success 
 
 4. Month = extracted from release_date
 
-##**Analysis & Insights**
+# **Analysis & Insights**
 
 1. Release Month & ROI:
 
@@ -73,7 +73,7 @@ Our goal was to determine which features contribute most to a movie’s success 
 
     - Popularity ≠ sustained profitability.
 
-##**Conclusions**
+# **Conclusions**
 
 - Mid-budget films ($30M–$100M) perform best.
 
@@ -83,7 +83,7 @@ Our goal was to determine which features contribute most to a movie’s success 
 
 - Early hype doesn’t ensure lasting success.
 
-##**Recommendations**
+# **Recommendations**
 
 - Release major films during summer or holiday seasons.
 
@@ -104,7 +104,7 @@ SQL
 **Tableau Dashboard** : 
 
 
-##**Team Members**
+# **Team Members**
 
 KARU Group 1:
 Sheilla Macharia | Margaret Mondia | Benard Kariuki | Bravian Ashono | Isaac Ndung’u | Ibrahim Mohamud
