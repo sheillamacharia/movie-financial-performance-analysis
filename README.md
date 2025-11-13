@@ -53,7 +53,7 @@ Our goal was to determine which features contribute most to a movie’s success 
 
 1. Release Month & ROI:
 
-    - Highest ROI in May–July and November–December.
+    -  Use timing as a secondary strategy, ensuring quality and audience targeting come first.
 
     - Early-year releases perform weakest.
 
@@ -77,11 +77,11 @@ Our goal was to determine which features contribute most to a movie’s success 
 
 - Mid-budget films ($30M–$100M) perform best.
 
-- Timing of release strongly affects ROI.
+- Timing of release does not affect ROI.
 
 - Ideal runtime: ~100 minutes.
 
-- Early hype doesn’t ensure lasting success.
+- Early hype does help with the profit.
 
 # **Recommendations**
 
