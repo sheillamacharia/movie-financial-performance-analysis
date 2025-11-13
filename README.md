@@ -71,7 +71,7 @@ Our goal was to determine which features contribute most to a movie’s success 
 
 5. Early Popularity vs Success:
 
-    - Popularity ≠ sustained profitability.
+    - There is a statistically significant association between early popularity and Return on Investment (ROI).
 
 # **Conclusions**
 
@@ -91,9 +91,9 @@ Our goal was to determine which features contribute most to a movie’s success 
 
 - Maintain runtimes around 100 minutes.
 
-- Invest in long-term marketing, not just opening-week hype.
+- Invest Early in Marketing and Hype.
 
-**Technologies Used**
+# **Technologies Used**
 
 Python (Pandas, Matplotlib, Seaborn, NumPy)
 
