@@ -101,9 +101,6 @@ Jupyter Notebook
 
 SQL
 
-**Tableau Dashboard** : 
-
-
 # **Team Members**
 
 KARU Group 1:
